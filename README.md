@@ -298,8 +298,3 @@ MIT License - You are free to use, modify, and distribute
 - ✅ JSON and table output formats
 - ✅ Cross-platform support
 
-## Support
-
-For issues and feature requests, visit the project repository.
-# storage-optimizer
-# storage-optimizer
